@@ -1,4 +1,7 @@
 # Pizaa-sales-Analysis
+![image](https://github.com/suryaravula/Pizaa-sales-Analysis/assets/62894191/cdfc0872-d478-44fb-ae97-5b9a724514b2)
+![image](https://github.com/suryaravula/Pizaa-sales-Analysis/assets/62894191/b34faecf-d2d9-45a1-a899-333c97b27bb3)
+
 This project focuses on analyzing pizza sales data using SQL and creating a powerful BI (Business Intelligence) dashboard and report using Microsoft Power BI. The goal is to provide valuable insights into pizza sales performance, customer preferences, and other key metrics for better decision-making.
 
 ## Table of Contents:
@@ -56,3 +59,6 @@ Execute the SQL queries for data analysis.
 Open the Power BI dashboard file in Power BI Desktop.
 Customize the visuals and reports as needed.
 Share the generated insights with stakeholders.
+
+
+  Credits: Thanks for detail visualization lecture on sales Data Tutorials and Swapnjeet 
