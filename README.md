@@ -1,4 +1,4 @@
-# Pizaa-sales-Analysis
+# Pizza-sales-Analysis
 
 This project focuses on analyzing pizza sales data using SQL and creating a powerful BI (Business Intelligence) dashboard and report using Microsoft Power BI. The goal is to provide valuable insights into pizza sales performance, customer preferences, and other key metrics for better decision-making.
 
